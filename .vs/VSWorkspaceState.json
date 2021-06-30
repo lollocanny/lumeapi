@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\prisma",
+    "\\prisma\\migrations",
+    "\\routes",
+    "\\services"
+  ],
+  "SelectedNode": "\\routes\\richiesta.js",
+  "PreviewInSolutionExplorer": false
+}
